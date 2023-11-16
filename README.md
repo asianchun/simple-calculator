@@ -4,7 +4,7 @@ Welcome to the Simple Calculator! This project is a Java implementation of a bas
 
 ## Table of Contents
 
-- [Demo](#demo)
+- [Screenshot](#screenshot)
 - [Features](#features)
 - [Run Locally](#run-locally)
 - [How to Use](#how-to-use)
@@ -12,9 +12,8 @@ Welcome to the Simple Calculator! This project is a Java implementation of a bas
 - [Customisation](#customisation)
 - [Contributing](#contributing)
 
-## Demo
-
-Check out the live demo of the Calculator [here](#).
+## Screenshot
+![Alt Text](/screenshot.png?raw=true "Optional Title")
 
 ## Features
 
